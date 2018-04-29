@@ -13,8 +13,8 @@ import java.io.IOException;
 
 /**
  * <pre>
- * <B>Copyright:</B>   HP Software IL
- * <B>Owner:</B>       <a href="mailto:izik.golan@hp.com">Izik Golan</a>
+ * <B>Copyright:</B>   Izik Golan
+ * <B>Owner:</B>       <a href="mailto:golan2@hotmail.com">Izik Golan</a>
  * <B>Creation:</B>    25/06/2015 15:01
  * <B>Description:</B>
  *
